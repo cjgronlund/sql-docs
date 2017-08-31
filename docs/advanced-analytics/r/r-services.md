@@ -78,7 +78,6 @@ Microsoft provides broad support for machine learning ecosystems, including tool
 ### R Tools for Visual Studio
 
 Visual Studio provides a full development environment for the R language. The plug-in includes an editor, interactive window, plotting, debugger, and more. You can use .NET languages from R or invoke R from .NET via open source libraries such as R.NET and rClr.
-
 Visual Studio also has an excellent Python development environment. There's no easier way to work with machine learning languages while continuing to enjoy access to SQL database development tools.
 
 For more information, see:
@@ -118,6 +117,6 @@ The Azure Marketplace contains several virtual machines that support data scienc
 
 [Getting started with Machine Learning Services](getting-started-with-sql-server-r-services.md)
 
-[Getting started with Machiine Learning Server](getting-started-with-microsoft-r-server-standalone.md)
+[Getting started with Machine Learning Server](getting-started-with-microsoft-r-server-standalone.md)
 
 [Install the SQL Server database engine](../../database-engine/install-windows/install-sql-server-database-engine.md)
